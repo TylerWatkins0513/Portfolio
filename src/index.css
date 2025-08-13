@@ -1,0 +1,37 @@
+
+@import "tailwindcss";
+:root {
+   font-family: "Inter", sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color: rgb(0, 0, 0);
+  background:  #bab650;
+  /* background: linear-gradient(to right, rgb(15, 15, 15) 20%, 80%); */
+  
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 300;
+}
+
+/* a:hover {
+  color: #b0b0b0;
+} */
+
+body {
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background:  #bab650;
+  font-weight: 300;
+  font-family: "Inter", sans-serif;
+}
+
+
+
+
