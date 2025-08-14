@@ -1,12 +1,30 @@
-# React + Vite
+# Tyler Watkins Portfolio 💼
+## Overview 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hi, I am Tyler and welcome to my portfolio repository👏🏽! 
+The purpose of this project was to highlight my work, share my background, and provide potential employers and collaborators with an easy way to connect.
 
-Currently, two official plugins are available:
+## 🖥️ Live Demo
+*Insert Link here*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
 
-## Expanding the ESLint configuration
+* Reponsive design - Fully optimized for desktop, tablet, and mobile devices.
+* Smooth layout - Can navigate by scrolling or using the navbar
+* About Section - Overview of my background, education, experience, future endeavors and what I like to do
+* Experience Section - Highlights my work current relevant work experiences
+* Projects Section - Highlights of selected projects with descriptions, tech stacks, and links to live demos or repositories.
+* Contact links - Github, LinkedIn, Email
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack 🧰
+
+* FrontEnd - React.js \ Node.js \ HTML5 \ TailWindCSS \ CSS3
+* Hosting - Vercel
+
+### Contact Info
+
+* [LinkedIn](https://www.linkedin.com/in/tylerwatkins0513/)
+* [Email](TylerWatkins0513@gmail.com)
+
+
+
