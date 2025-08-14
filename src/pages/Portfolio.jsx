@@ -1,9 +1,7 @@
-import gradPhoto from '../assets/gradPhoto.jpg'
+
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
-
-
 
 function Portfolio () {
     return (
@@ -28,7 +26,7 @@ function Portfolio () {
                         </nav>
                         
                           <div className="w-32 h-48 lg:w-48 lg:h-64 lg:ml-6 flex ml-20 items-center justify-center text-4xl font-bold">
-                              <img src={gradPhoto} className="rounded-xl" alt="" />
+                              <img src="/gradPhoto.jpg" className="rounded-xl" alt="" />
                           </div>
                         </div>
                       </div>
