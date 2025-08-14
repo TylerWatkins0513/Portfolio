@@ -2,6 +2,7 @@
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
+import { FaFileAlt } from "react-icons/fa";
 
 function Portfolio () {
     return (
@@ -30,10 +31,11 @@ function Portfolio () {
                           </div>
                         </div>
                       </div>
-                      <div className='flex flex-row gap-6 mb-4 ml-16 lg:ml-2 lg:mb-10 lg:ml-20 '>
+                      <div className='flex flex-row gap-6 mb-4 ml-10 lg:ml-2 lg:mb-10 lg:ml-20 '>
                         <a href="https://github.com/TylerWatkins0513" className="text-4xl text-black hover:text-neutral-700" target='_blank' rel='noopener noreferrer'><FaGithub/></a>
                         <a href="https://www.linkedin.com/in/tylerwatkins0513/" className="text-4xl text-black hover:text-neutral-700" target='_blank' rel='noopener noreferrer'><FaLinkedin/></a>
                         <a href="mailto:TylerWatkins0513@gmail.com" className="text-4xl text-black hover:text-neutral-700" target='_blank' rel='noopener noreferrer'><MdEmail/></a>
+                        <a href="/resume.pdf" className="text-3xl text-black hover:text-neutral-700 block lg:hidden" target='_blank' rel='noopener noreferrer'><FaFileAlt/></a>
                       </div>
                     </div>
             </div>
