@@ -3,6 +3,7 @@ import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 import { FaFileAlt } from "react-icons/fa";
+import { FaAws } from "react-icons/fa";
 
 function Portfolio () {
     return (
@@ -52,9 +53,10 @@ function Portfolio () {
             </p>
             
             <p className="lg:text-lg text-sm text-neutral-900 mb-6 leading-relaxed text-justify tracking-tighter">
-          I am currently seeking a full-time role as a software engineer where I can apply my technical skills and continue growing as a developer.
-          I am particularly passionate about creating efficient and scalable software solutions, whether that involves writing automation scripts to optimize internal operations or designing full-stack web applications 
-          that address real-world problems. I enjoy bringing ideas to life through clean and purposeful code.
+            I am currently seeking a full-time role as a software engineer where I can apply my technical skills and continue growing as a developer. 
+            I am particularly passionate about creating efficient and scalable software solutions, whether that involves writing automation scripts to optimize internal operations, designing full-stack web applications that address real-world problems, 
+            or leveraging cloud technologies to build resilient, high-availability systems. I also have a growing interest in DevOps practices, aiming to bridge development and operations through automation, CI/CD pipelines, and cloud infrastructure management. 
+            I enjoy bringing ideas to life through clean, purposeful code and robust deployment workflows.
             </p>
             
             <p className="lg:text-lg text-sm text-neutral-900 mb-6 leading-relaxed text-justify tracking-tighter">
@@ -104,7 +106,6 @@ function Portfolio () {
             </div>
           </div>
         </section>
-
         {/* Projects Section */}
         <section id="projects" className="min-h-screen p-16 flex flex-col justify-center">
           <div className="max-w-2xl">
@@ -160,7 +161,7 @@ function Portfolio () {
               </div>
           </div>
         </section>
-            </div>
+        </div>
         </div>
             
     )
